@@ -1,0 +1,55 @@
+.container{
+    margin-bottom:100px ;
+    
+}
+.oreng-bd{
+    background-color:rgb(254, 234, 233) ;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #ff235f;
+}
+.link-button{
+    background-color: #ff235f;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+.cat1,.cat2,.cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-image: linear-gradient(#ADFF2F,#FFD700);
+}
+.cat2{
+    background-image: linear-gradient(#DC143C,#8B0000);
+}
+.cat3{
+    background-image: linear-gradient(#0000FF,#00008B);
+}
+.categories h1{
+        color: white;
+}
+#cala{
+    color: black;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border:none;
+    box-shadow: 5px 10px 10px lightslategrey;
+}
+#submit{
+    height: 500px;
+}
+footer{
+    text-align: center;
+}
